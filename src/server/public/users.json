@@ -1,0 +1,25 @@
+{
+    "currentUser": {
+        "id": 1,
+        "username": "Horst",
+        "password": "horst"
+    },
+    "users": [
+        {
+            "id": 1,
+            "username": "Horst",
+            "password": "horst"
+        },
+        {
+            "id": 2,
+            "username": "Maike",
+            "password": "maike"
+        },
+        {
+            "id": 3,
+            "username": "Bernd",
+            "password": "bernd"
+        }
+    ],
+    "isLoggedIn": true
+}
